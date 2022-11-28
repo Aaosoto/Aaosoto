@@ -1,14 +1,14 @@
 Welcome to my GitHub profile!
-Hi, my name is Agustin 👋. I'm currently starting my Data Science journey, living in Chile. I love to learn and share my knowledge with other people. Check out my YouTube Chanell and my portfolio 🚀.
+Hi, my name is Agustin 👋. I'm currently starting my Data Science journey, living in Chile. I love to learn and share my knowledge with other people. Check out my [YouTube Channel](https://www.youtube.com/channel/UC54eunXg9ZUThnaZiMjb59g) and my [portfolio](https://aaosoto.github.io/agustinportfolio/) 🚀.
 
-You can find me on Twitter and LinkedIn 🪄.
-Twitter: https://twitter.com/aaosoto
-LinkedIn: https://www.linkedin.com/in/aaosoto/
+You can find me on [Twitter](https://twitter.com/aaosoto) and [LinkedIn](https://www.linkedin.com/in/aaosoto/) 🪄.
+
 
 Most popular repositories:
 
-Machine Learning basics: https://github.com/zotroneneis/machine_learning_basics
-Magical Python Universe: https://github.com/zotroneneis/magical_universe
+Machine Learning projets: https://github.com/Aaosoto/Machine-learning-projects
+
+Anylogic models: https://github.com/Aaosoto/Anylogic-models
 
 <!---
 Aaosoto/Aaosoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
