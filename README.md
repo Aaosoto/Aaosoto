@@ -6,7 +6,7 @@ You can find me on [Twitter](https://twitter.com/aaosoto) and [LinkedIn](https:/
 
 Most popular repositories:
 
-Machine Learning projets: https://github.com/Aaosoto/Machine-learning-projects
+Machine Learning projects: https://github.com/Aaosoto/Machine-learning-projects
 
 Anylogic models: https://github.com/Aaosoto/Anylogic-models
 
